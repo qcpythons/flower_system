@@ -10,5 +10,14 @@
 ● 用户可以登录、注册、查看鲜花介绍、购买、加入购物车、发布评论、对鲜花评分、查看个人订单信息、编辑个人信息、个性化推荐等功能
 ● 管理员在后台系统中可以对用户和鲜花信息进行管理
 
-## 二、演示视频 and 完整代码 and 安装
+## 二、系统效果图片展示
+![img_09_01_20_47_28](https://github.com/user-attachments/assets/75897140-448e-49e1-9c7e-f996e1ac2b03)
+![img_09_01_20_47_32](https://github.com/user-attachments/assets/a8a20d38-c3a8-4759-90a2-3e7482c01222)
+![img_09_01_20_48_04](https://github.com/user-attachments/assets/6afd7771-4aff-4eeb-8e43-1a800eb70d29)
+![img_09_01_20_48_25](https://github.com/user-attachments/assets/32fd604c-5163-489c-bb71-9e573325c5e4)
+
+
+
+
+## 三、演示视频 and 完整代码 and 安装
 地址：https://www.yuque.com/ziwu/yygu3z/exwqaalyvfahnybp
